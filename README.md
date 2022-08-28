@@ -2,6 +2,10 @@
 
 This project is the home page of a fictional fashion watches online store named ExactTime. The project was coded in HTML, CSS and Bootstrap 5.
 
+## Project Link
+
+**https://fashion-watches-store-home-page.netlify.app/**
+
 ## Screenshot 1
 
 ![Screenshot](Screenshot_1.jpg)
