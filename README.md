@@ -1,6 +1,6 @@
 # ExactTime - Fashion Watches Online Store - Home Page
 
-This project is the home page of a fictional fashion watches online store named ExactTime. The project was coded in HTML, CSS and Bootstrap 5.
+This project is the home page of a fictional fashion watches online store named ExactTime, it was coded in HTML, CSS and Bootstrap 5.
 
 ## Project Link
 
